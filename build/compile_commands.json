@@ -1,0 +1,197 @@
+[
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch/catch_main.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch/catch_main.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/multiplication",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/multiplication -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_multiplication.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/multiplication/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/multiplication/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/multiplication",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/multiplication -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_multiplication.dir/multiplication.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/multiplication/multiplication.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/multiplication/multiplication.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/next_even",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/next_even -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_next_even.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/next_even/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/next_even/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/next_even",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/next_even -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_next_even.dir/next_even.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/next_even/next_even.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/next_even/next_even.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/is_leap",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/is_leap -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_is_leap.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/is_leap/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/is_leap/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/is_leap",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/is_leap -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_is_leap.dir/is_leap.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/is_leap/is_leap.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/is_leap/is_leap.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/chocolate",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/chocolate -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_chocolate.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/chocolate/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/chocolate/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/chocolate",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/chocolate -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_chocolate.dir/chocolate.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/chocolate/chocolate.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/chocolate/chocolate.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/min_divisor",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/min_divisor -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_min_divisor.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/min_divisor/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/min_divisor/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/min_divisor",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/min_divisor -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_min_divisor.dir/min_divisor.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/min_divisor/min_divisor.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/min_divisor/min_divisor.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/fibonacci",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/fibonacci -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_fibonacci.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/fibonacci/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/fibonacci/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/fibonacci",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/fibonacci -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_fibonacci.dir/fibonacci.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/fibonacci/fibonacci.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/fibonacci/fibonacci.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/reduce_fraction",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/reduce_fraction -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_reduce_fraction.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/reduce_fraction/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/reduce_fraction/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/reduce_fraction",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/reduce_fraction -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_reduce_fraction.dir/reduce_fraction.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/reduce_fraction/reduce_fraction.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/reduce_fraction/reduce_fraction.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/palindrome",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/palindrome -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_palindrome.dir/palindrome.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/palindrome/palindrome.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/palindrome/palindrome.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/palindrome",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/palindrome -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_palindrome.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/palindrome/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/palindrome/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/password",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/password -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_password.dir/password.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/password/password.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/password/password.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/password",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/password -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_password.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/password/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/password/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/sort_students",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/sort_students -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_sort_students.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/sort_students/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/sort_students/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/sort_students",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/sort_students -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_sort_students.dir/sort_students.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/sort_students/sort_students.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/sort_students/sort_students.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/tests_checking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/tests_checking -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_tests_checking.dir/tests_checking.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/tests_checking/tests_checking.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/tests_checking/tests_checking.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/tests_checking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/tests_checking -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_tests_checking.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/tests_checking/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/tests_checking/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/admission",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/admission -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_admission.dir/admission.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/admission/admission.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/admission/admission.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/admission",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/admission -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_admission.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/admission/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/admission/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/scorer",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/scorer -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_scorer.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/scorer/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/scorer/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/scorer",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/scorer -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_scorer.dir/scorer.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/scorer/scorer.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/scorer/scorer.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/unixpath",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/unixpath -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_unixpath.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/unixpath/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/unixpath/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/unixpath",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/unixpath -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_unixpath.dir/unixpath.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/unixpath/unixpath.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/unixpath/unixpath.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/provinces",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/provinces -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_provinces.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/provinces/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/provinces/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/provinces",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/provinces -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_provinces.dir/provinces.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/provinces/provinces.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/provinces/provinces.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/search",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/search -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_search.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/search/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/search/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/search",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/search -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_search.dir/search.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/search/search.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/search/search.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/rational",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/rational -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_rational.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/rational/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/rational/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/rational",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/rational -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_rational.dir/rational.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/rational/rational.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/rational/rational.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/stack",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/stack -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_stack.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/stack/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/stack/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/stack",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/stack -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_stack.dir/stack.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/stack/stack.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/stack/stack.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/queue",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/queue -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_queue.dir/test.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/queue/test.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/queue/test.cpp"
+},
+{
+  "directory": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/build/tasks/queue",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/util -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/queue -I/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++20 -o CMakeFiles/test_queue.dir/queue.cpp.o -c /Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/queue/queue.cpp",
+  "file": "/Users/meshaza/pmi-233-1-Michael-Zameshaev-MeshaZa/tasks/queue/queue.cpp"
+}
+]
